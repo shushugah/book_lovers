@@ -1,24 +1,30 @@
-# README
+# Book Lovers
+[![Maintainability](https://api.codeclimate.com/v1/badges/fa2377a30415062ded97/maintainability)](https://codeclimate.com/github/shushugah/book_lovers/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/fa2377a30415062ded97/test_coverage)](https://codeclimate.com/github/shushugah/book_lovers/test_coverage)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Share, store and recommend books with each other. Future features will include ability to send and request specific books to each other and organize events around them.
 
-* Ruby version
+## Tech Stack
+Rails 5 web application with PostgreSQL database.
 
-* System dependencies
+For future plans see the [task board](https://github.com/shushugah/book_lovers/projects/1)
 
-* Configuration
+[Depfu](https://depfu.com/) creates Pull Requests to keep gem dependencies up to date.  
 
-* Database creation
+### Contributing
 
-* Database initialization
+See [Contributing](https://github.com/shushugah/book_lovers/blob/master/CONTRIBUTING.md)
 
-* How to run the test suite
+### Code of Conduct
 
-* Services (job queues, cache servers, search engines, etc.)
+See [CoC](https://github.com/shushugah/book_lovers/blob/master/CODE_OF_CONDUCT.md)
 
-* Deployment instructions
+### License
 
-* ...
+See [AGPL 3.0](https://github.com/shushugah/book_lovers/blob/master/CODE_OF_CONDUCT.md)
+
+GNU Affero General Public License v3.0	agpl-3.0
+
+### Current Maintainer
+
+@shushugah

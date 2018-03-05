@@ -7,7 +7,7 @@ class CreateAuthor < ActiveRecord::Migration[5.1]
       t.datetime :born_at
       t.datetime :died_at
 
-    remove_column :books, :author_name 
+      remove_column :books, :author_name
     end
   end
 end
